@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	padding:0px;
+	margin:0px;
+}
+
+a{ font-size:12px; color:#009; text-decoration:none}
+
+a:hover{ color:#F00}
+
+.normal{ font-size:12px}
+
+
+.text
+{
+	height:25px;
+	width:190px;
+	color:#006;
+}
+
+.leftborder{ border-right:2px #CCC solid}
+
+.title{ font-size:12px; font-weight:bold; background:url(../images/index_20.jpg); height:25px; }
+
+.menuborder{border-right:1px #CCC solid;border-left:1px #CCC solid;border-bottom:1px #CCC solid;}
+
+.tableborder{border-collapse:collapse;border:none;}
+
+.tableborder td{border:solid #CCC 1px;}
